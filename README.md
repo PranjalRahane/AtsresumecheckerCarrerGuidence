@@ -11,7 +11,7 @@ An AI-powered Resume Analyzer that scores your resume for ATS (Applicant Trackin
 - 🎯 **ATS Score** — Get a score out of 100 with detailed feedback
 - 🔧 **Skill Gap Analysis** — Identifies missing technical skills
 - 🗺️ **AI Career Roadmap** — Powered by Cohere AI; suggests careers, skill gaps, and a step-by-step learning path
-- 🔐 **Authentication** — Secure login/signup with JWT tokens
+- 🔐 **Authentication** — Secure login/signup with JWT tokens used
 - 🕒 **History** — View your last 20 resume analyses with score
 - 🔑 **Password Reset** — Forgot password flow with token-based reset
 
