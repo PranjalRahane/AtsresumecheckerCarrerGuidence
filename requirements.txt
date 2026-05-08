@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymongo
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+pdfplumber
+python-docx
+requests
+pydantic[email]
+google-auth
